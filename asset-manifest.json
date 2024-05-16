@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Super_Eats/static/css/main.0eebe959.css",
+    "main.js": "/Super_Eats/static/js/main.2a1ce94d.js",
+    "index.html": "/Super_Eats/index.html",
+    "main.0eebe959.css.map": "/Super_Eats/static/css/main.0eebe959.css.map",
+    "main.2a1ce94d.js.map": "/Super_Eats/static/js/main.2a1ce94d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0eebe959.css",
+    "static/js/main.2a1ce94d.js"
+  ]
+}
